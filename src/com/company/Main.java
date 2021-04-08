@@ -11,6 +11,9 @@ public class Main {
 	    System.out.println("Zadanie");
 
 
+	    System.out.println("Nowy test");
+	    System.out.println("Main test");
+
 
         // write your code here
     }
