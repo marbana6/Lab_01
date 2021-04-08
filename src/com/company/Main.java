@@ -6,7 +6,6 @@ public class Main {
 	    System.out.println("TEST");
 	    System.out.println("Mój drugi commit");
 	    System.out.println("New new");
-
 	    System.out.println("Testuję mina");
 
 
